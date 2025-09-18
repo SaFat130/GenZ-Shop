@@ -1,0 +1,44 @@
+*{
+    font-family: Montserrat;
+}
+/* nav-bar-only */
+header nav{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 39px;
+    align-items: center;  
+}
+.div-1{
+    display: flex;
+    gap: 10.17px;
+    color: #363958;
+font-family: Montserrat;
+font-size: 25.426px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.green{
+    color: #A4BC46;
+font-family: Montserrat;
+font-size: 25.426px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.div-1 img{
+    margin-left: 137px;
+}
+.div-2{
+    display: flex;
+    gap: 57px;
+    color: #3C3C3C;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; 
+}
+.p-4{
+    margin-right: 137px;
+}
